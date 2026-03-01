@@ -1,0 +1,14 @@
+Metric,Value
+Total Nodes,75371.0
+Total Edges,247693.0
+Largest Component Nodes,75371.0
+Largest Component Edges,247693.0
+Communities Detected,54.0
+Modularity Score,0.5731
+Echo Chamber Score,0.7487
+Same Ideology Interactions,185447.0
+Cross Ideology Interactions,62246.0
+Left to Left,20324.0
+Left to Right,57511.0
+Right to Left,4735.0
+Right to Right,165123.0
