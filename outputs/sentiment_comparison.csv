@@ -1,4 +1,0 @@
-Method,Total Positive,Total Negative,Left Positive,Left Negative,Right Positive,Right Negative
-VADER,"26,560 (63.1%)","15,550 (36.9%)",64.2%,35.8%,62.4%,37.6%
-TextBlob,"32,004 (76.0%)","10,106 (24.0%)",76.7%,23.3%,75.6%,24.4%
-RoBERTa,"6,450 (15.3%)","35,660 (84.7%)",19.5%,80.5%,12.9%,87.1%
